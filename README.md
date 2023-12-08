@@ -2,7 +2,7 @@
 
 ---
 
-:telescope: About Me:
+About Me:
 
 Passionate Front-end Developer skilled in React, HTML/CSS, and JavaScript. Former Digital Marketer with a keen understanding of user experience and web optimization.
 <br>
